@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/datatips.jar"/>
+	<classpathentry kind="lib" path="lib/edtftpj.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/jdatepicker.jar"/>
+	<classpathentry kind="lib" path="lib/jdic_stub_lin.jar"/>
+	<classpathentry kind="lib" path="lib/jdic_stub_mac.jar"/>
+	<classpathentry kind="lib" path="lib/jdic_stub_win.jar"/>
+	<classpathentry kind="lib" path="lib/jdic.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/jhall.jar"/>
+	<classpathentry kind="lib" path="lib/jhelpaction.jar"/>
+	<classpathentry kind="lib" path="lib/jmyspell.jar"/>
+	<classpathentry kind="lib" path="lib/jsch.jar"/>
+	<classpathentry kind="lib" path="lib/jtidy-8.0.jar"/>
+	<classpathentry kind="lib" path="lib/l2fprod-common-directorychooser.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/novaworx-syntax-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/plastic-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/rome-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/sam.jar"/>
+	<classpathentry kind="lib" path="lib/tamb-ui-commons.jar"/>
+	<classpathentry kind="lib" path="lib/tamb-utils.jar"/>
+	<classpathentry kind="lib" path="lib/xmlrpc-2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
